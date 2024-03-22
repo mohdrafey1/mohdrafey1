@@ -1,8 +1,11 @@
 
 <h1 align="center">Hey there, I'm Mohd Rafey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=1000&lines=Passionate+Computer+Science+Engineer;Full+Stack+Web+Developer;Programmer)](https://git.io/typing-svg)
+
+<br>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ayushparikh-code/ayushparikh-code/blob/main/coding-freak%20(1).gif">
 

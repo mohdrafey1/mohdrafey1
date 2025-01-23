@@ -17,13 +17,12 @@
 <br>
 <br>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools I know:
 <ul align="center">
-   <li>React</li>
-    <li>Next</li>
-    <li>MongoDB</li>
-    <li>Express</li>
-    <li>Nodejs</li>
+    <li>MongoDb, Express, React, Nodejs</li>
+    <li>Nextjs, TypeScript</li>
+    <li>Tailwind, Bootstrap, Material Ui</li>
+    <li>HTML, CSS, JavaScript</li>
 </ul>
 
 <br>

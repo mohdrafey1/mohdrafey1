@@ -18,10 +18,13 @@
 <br>
 
 ## 🚀 Languages and Tools:
-<p align="center">
-   
-</p>
-- React :wink:
+<ul align="center">
+   <li>React</li>
+    <li>Next</li>
+    <li>MongoDB</li>
+    <li>Express</li>
+    <li>Nodejs</li>
+</ul>
 
 <br>
 

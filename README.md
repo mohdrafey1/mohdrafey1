@@ -18,7 +18,7 @@
 <br>
 
 ## 🚀 Languages and Tools I Know:
-<ul align="center">
+<ul>
     <li><strong>Programming Languages:</strong> Core Java, JavaScript, TypeScript</li>
     <li><strong>Frontend:</strong> React, Next.js, EJS, HTML, CSS, Bootstrap, Tailwind CSS, Material-UI</li>
     <li><strong>Backend:</strong> Node.js, Express.js</li>

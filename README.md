@@ -17,12 +17,14 @@
 <br>
 <br>
 
-## 🚀 Languages and Tools I know:
+## 🚀 Languages and Tools I Know:
 <ul align="center">
-    <li>MongoDb, Express, React, Nodejs</li>
-    <li>Nextjs, TypeScript</li>
-    <li>Tailwind, Bootstrap, Material Ui</li>
+    <li>MongoDB, Express, React, Node.js (MERN Stack)</li>
+    <li>Next.js, TypeScript</li>
+    <li>Tailwind CSS, Bootstrap, Material-UI</li>
     <li>HTML, CSS, JavaScript</li>
+    <li>SQL, NoSQL (PostgreSQL, MongoDB)</li>
+    <li>Prisma, GitHub, Git, VS Code</li>
 </ul>
 
 <br>

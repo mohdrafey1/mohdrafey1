@@ -19,12 +19,15 @@
 
 ## 🚀 Languages and Tools I Know:
 <ul align="center">
-    <li>MongoDB, Express, React, Node.js (MERN Stack)</li>
-    <li>Next.js, TypeScript</li>
-    <li>Tailwind CSS, Bootstrap, Material-UI</li>
-    <li>HTML, CSS, JavaScript</li>
-    <li>SQL, NoSQL (PostgreSQL, MongoDB)</li>
-    <li>Prisma, GitHub, Git, VS Code</li>
+    <li><strong>Programming Languages:</strong> Core Java, JavaScript, TypeScript</li>
+    <li><strong>Frontend:</strong> React, Next.js, EJS, HTML, CSS, Bootstrap, Tailwind CSS, Material-UI</li>
+    <li><strong>Backend:</strong> Node.js, Express.js</li>
+    <li><strong>Database:</strong> MongoDB, PostgreSQL, MySQL</li>
+    <li><strong>State Management:</strong> Redux, Recoil</li>
+    <li><strong>ORM/ODM:</strong> Prisma, Mongoose</li>
+    <li><strong>Version Control:</strong> Git, GitHub</li>
+    <li><strong>Tools:</strong> VS Code, Postman, Firebase, AWS S3 IAM</li>
+    <li><strong>Other:</strong> REST APIs, PWA development, Deployment on Vercel</li>
 </ul>
 
 <br>

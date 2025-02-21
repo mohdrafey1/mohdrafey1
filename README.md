@@ -26,7 +26,7 @@
     <li><strong>State Management:</strong> Redux, Recoil</li>
     <li><strong>ORM/ODM:</strong> Prisma, Mongoose</li>
     <li><strong>Version Control:</strong> Git, GitHub</li>
-    <li><strong>Tools:</strong> VS Code, Postman, Firebase, AWS S3, EC2 IAM, Docker, CI CD</li>
+    <li><strong>Tools:</strong> VS Code, Postman, Firebase, AWS (S3, EC2, CloudFront, IAM ) Docker, CI CD</li>
     <li><strong>Other:</strong> REST APIs, PWA development, Deployment on Vercel</li>
 </ul>
 

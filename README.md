@@ -101,7 +101,7 @@
 <p align="center">
   <a href="https://github.com/mohdrafey1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohdrafey1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrafey1&theme=tokyonight" alt="mohdrafey1" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=mohdrafey1&theme=tokyonight" alt="mohdrafey1" />
   </a>
 </p>
 

@@ -10,9 +10,14 @@
 
 -   🔭 Currently working on an exciting web application project 🚀
 -   🌱 Always expanding my knowledge in cloud technologies and microservices
--   👯 Looking to collaborate on **Open-Source Projects** <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">
 -   💬 Ask me anything about MERN stack development
 -   ⚡ Fun fact: I debug code faster with chai ☕
+
+## 🎯 2026 Goals
+
+-   🌐 Launch 2 major full-stack projects
+-   📖 Deep dive into Devops
+-   ☁️ Get Good Job
 
 <br>
 
@@ -101,75 +106,74 @@
 <br>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-901.4%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+>
 > 🏆 5 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 31 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-🌆 Daytime                534 commits         ████████░░░░░░░░░░░░░░░░░   33.19 % 
-🌃 Evening                529 commits         ████████░░░░░░░░░░░░░░░░░   32.88 % 
-🌙 Night                  440 commits         ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+🌆 Daytime                534 commits         ████████░░░░░░░░░░░░░░░░░   33.19 %
+🌃 Evening                529 commits         ████████░░░░░░░░░░░░░░░░░   32.88 %
+🌙 Night                  440 commits         ███████░░░░░░░░░░░░░░░░░░   27.35 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   260 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Tuesday                  235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Wednesday                159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Thursday                 158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Saturday                 264 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Sunday                   333 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Monday                   260 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Tuesday                  235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Wednesday                159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Thursday                 158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Saturday                 264 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+Sunday                   333 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               23 repos            █████████████████░░░░░░░░   67.65 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript               23 repos            █████████████████░░░░░░░░   67.65 %
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 %
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
+Last Updated on 01/01/2026 07:14:13 UTC
 
-
-
- Last Updated on 01/01/2026 07:14:13 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

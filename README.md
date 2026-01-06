@@ -6,6 +6,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ayushparikh-code/ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohdrafey1&label=Profile%20Views&color=red&style=flat" alt="profile views" />
+</p>
+
+
 ## 👨‍💻 About Me
 
 -   🔭 Currently working on an exciting web application project 🚀
@@ -212,6 +217,3 @@ Java                     1 repo              ░░░░░░░░░░░�
   <p>📧 Feel free to reach out - I'm always happy to help!</p>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohdrafey1&label=Profile%20Views&color=red&style=flat" alt="profile views" />
-</p>

@@ -105,6 +105,11 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohdrafey1&theme=radical&hide_border=true" />
+</p>
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2038%20mins-blue?style=flat)
 
@@ -206,3 +211,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 <div align="center">
   <p>📧 Feel free to reach out - I'm always happy to help!</p>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohdrafey1&label=Profile%20Views&color=red&style=flat" alt="profile views" />
+</p>

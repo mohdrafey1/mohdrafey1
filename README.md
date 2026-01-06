@@ -109,7 +109,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohdrafey1&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=mohdrafey1&label=Profile%20Views&color=red&style=flat" alt="profile views" />
 </p>
 

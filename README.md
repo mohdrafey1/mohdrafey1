@@ -151,8 +151,6 @@
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><b>React Native</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=expo" width="48"/><br><b>Expo</b></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=android" width="48"/><br><b>Android</b></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=apple" width="48"/><br><b>iOS</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=googleplay" width="48"/><br><b>Play Store</b></td>
 </tr>
 </table>

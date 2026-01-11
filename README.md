@@ -12,7 +12,7 @@
 
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=mohdrafey1&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS&base=30000" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mohdrafey1&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS&base=10000" alt="Profile Views" />
     <a href="https://github.com/mohdrafey1?tab=followers">
       <img src="https://img.shields.io/github/followers/mohdrafey1?label=Followers&style=for-the-badge&color=38BDF8&labelColor=000000" alt="GitHub Followers" />
     </a>

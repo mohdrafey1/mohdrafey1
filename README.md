@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=180&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Engineer&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=180&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img
@@ -12,11 +12,11 @@
 
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=mohdrafey1&color=00FFBF&style=for-the-badge&label=PROFILE+VIEWS&base=30000" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mohdrafey1&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS&base=30000" alt="Profile Views" />
     <a href="https://github.com/mohdrafey1?tab=followers">
-      <img src="https://img.shields.io/github/followers/mohdrafey1?label=Followers&style=for-the-badge&color=00FFBF&labelColor=000000" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/mohdrafey1?label=Followers&style=for-the-badge&color=38BDF8&labelColor=000000" alt="GitHub Followers" />
     </a>
-    <img src="https://img.shields.io/github/stars/mohdrafey1?label=Stars&style=for-the-badge&color=00FFBF&labelColor=000000" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/mohdrafey1?label=Stars&style=for-the-badge&color=38BDF8&labelColor=000000" alt="GitHub Stars" />
   </p>
 
 </div>

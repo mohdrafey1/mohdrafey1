@@ -2,9 +2,12 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Engineer&descAlignY=52&descSize=18" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=I+build+scalable+products.&lines=I+build+stunning+interfaces.&lines=I+build+powerful+backends.&lines=I+build+amazing+experiences." alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=45&lines=I+build+scalable+products.;I+build+stunning+interfaces.;I+build+powerful+backends.;I+build+amazing+experiences."
+    alt="Typing SVG"
+  />
+</a>
 
 
 

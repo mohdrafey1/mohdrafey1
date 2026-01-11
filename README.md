@@ -56,7 +56,7 @@
 ---
 
 <!-- Frontend -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Frontend%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Frontend%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -78,7 +78,7 @@
 ---
 
 <!-- Backend -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=⚙️%20Backend%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=⚙️%20Backend%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -92,7 +92,7 @@
 ---
 
 <!-- Databases -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🗄️%20Databases&fontSize=20&fontColor=38BDFF&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🗄️%20Databases&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -109,7 +109,7 @@
 ---
 
 <!-- Cloud & Hosting -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=💻%20Cloud%20Hosting&fontSize=20&fontColor=38BDFF&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=💻%20Cloud%20Hosting&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -126,7 +126,7 @@
 ---
 
 <!-- Others -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Other%20Tools&fontSize=20&fontColor=38BDFF&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Other%20Tools&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -144,7 +144,7 @@
 ---
 
 <!-- Mobile App Development (LAST) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=📱%20Mobile%20App%20Development&fontSize=20&fontColor=38BDFF&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=📱%20Mobile%20App%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>

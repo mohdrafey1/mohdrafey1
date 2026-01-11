@@ -1,10 +1,22 @@
-<h1 align="center">Hi there, I'm Mohd Rafey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Engineer&descAlignY=52&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer;Full+Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Building+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/ayushparikh-code/ayushparikh-code/blob/main/coding-freak%20(1).gif">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mohdrafey1&color=00FFBF&style=for-the-badge&label=PROFILE+VIEWS&base=30000" alt="Profile Views" />
+    <a href="https://github.com/mohdrafey1?tab=followers">
+      <img src="https://img.shields.io/github/followers/mohdrafey1?label=Followers&style=for-the-badge&color=00FFBF&labelColor=000000" alt="GitHub Followers" />
+    </a>
+    <img src="https://img.shields.io/github/stars/mohdrafey1?label=Stars&style=for-the-badge&color=00FFBF&labelColor=000000" alt="GitHub Stars" />
+  </p>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -108,11 +120,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohdrafey1&theme=radical&hide_border=true" />
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mohdrafey1&label=Profile%20Views&color=red&style=flat&base=30000" alt="profile views" />
-</p>
-
 
 
 <!--START_SECTION:waka-->

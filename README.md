@@ -37,6 +37,7 @@
 -   ☁️ Get Good Job
 
 <br>
+
 ## 🚀 Tech Stack
 
 <!-- Languages -->
@@ -62,9 +63,14 @@
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><b>React</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br><b>Next.js</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48"/><br><b>Redux</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br><b>Tailwind</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br><b>Bootstrap</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48"/><br><b>Material UI</b></td>
+</tr>
+<tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br><b>Tailwind</b></td>
 </tr>
 </table>
 </div>
@@ -92,7 +98,9 @@
 <table>
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><b>MongoDB</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><b>PostgreSQL</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><b>MySQL</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48"/><br><b>Prisma</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><b>Firebase</b></td>
 </tr>
 </table>
@@ -109,9 +117,26 @@
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><b>AWS</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br><b>GCP</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br><b>Vercel</b></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br><b>Netlify</b></td>
 <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="48"/><br><b>Render</b></td>
 <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="48"/><br><b>Hostinger</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Others -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🧰%20Others%20%26%20Tools&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><b>Docker</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br><b>Nginx</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><b>Postman</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><b>VS Code</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><b>Git</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><b>GitHub</b></td>
 </tr>
 </table>
 </div>

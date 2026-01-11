@@ -38,97 +38,13 @@
 
 <br>
 
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-  </tr>
-</table>
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-### Mobile Development
-
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Google Play](https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-
+🚀 Tech Stack
+<!-- Languages --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=💻%20Programming%20Languages&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/> <br><b>JavaScript</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/> <br><b>TypeScript</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/> <br><b>Java</b> </td> </tr> </table> </div>
+<!-- Frontend --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Frontend%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/> <br><b>React</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/> <br><b>Next.js</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/> <br><b>HTML5</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/> <br><b>CSS3</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/> <br><b>Tailwind</b> </td> </tr> </table> </div>
+<!-- Mobile --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=📱%20Mobile%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/> <br><b>React Native</b> </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/expo/expo/master/.github/resources/banner.png" width="65" height="65"/> <br><b>Expo</b> </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" width="48" height="48"/> <br><b>Android</b> </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/apple-ios.svg" width="48" height="48"/> <br><b>iOS</b> </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/google-play-icon.svg" width="48" height="48"/> <br><b>Play Store</b> </td> </tr> </table> </div>
+<!-- Backend --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=⚙️%20Backend%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65"/> <br><b>Node.js</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/> <br><b>Express</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65"/> <br><b>Redux</b> </td> </tr> </table> </div>
+<!-- Databases --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🗄️%20Databases&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65"/> <br><b>MongoDB</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/> <br><b>MySQL</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/> <br><b>Firebase</b> </td> </tr> </table> </div>
+<!-- Cloud --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=☁️%20Cloud%20%26%20DevOps&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/> <br><b>AWS</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48"/> <br><b>Google Cloud</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/> <br><b>Docker</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/> <br><b>GitHub</b> </td> </tr> </table> </div>
 
 <br>
 

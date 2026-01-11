@@ -37,14 +37,101 @@
 -   ☁️ Get Good Job
 
 <br>
+## 🚀 Tech Stack
 
-🚀 Tech Stack
-<!-- Languages --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=💻%20Programming%20Languages&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/> <br><b>JavaScript</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/> <br><b>TypeScript</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/> <br><b>Java</b> </td> </tr> </table> </div>
-<!-- Frontend --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Frontend%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/> <br><b>React</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/> <br><b>Next.js</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/> <br><b>HTML5</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/> <br><b>CSS3</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/> <br><b>Tailwind</b> </td> </tr> </table> </div>
-<!-- Mobile --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=📱%20Mobile%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/> <br><b>React Native</b> </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/expo/expo/master/.github/resources/banner.png" width="65" height="65"/> <br><b>Expo</b> </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" width="48" height="48"/> <br><b>Android</b> </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/apple-ios.svg" width="48" height="48"/> <br><b>iOS</b> </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/google-play-icon.svg" width="48" height="48"/> <br><b>Play Store</b> </td> </tr> </table> </div>
-<!-- Backend --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=⚙️%20Backend%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65"/> <br><b>Node.js</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/> <br><b>Express</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65"/> <br><b>Redux</b> </td> </tr> </table> </div>
-<!-- Databases --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🗄️%20Databases&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65"/> <br><b>MongoDB</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/> <br><b>MySQL</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/> <br><b>Firebase</b> </td> </tr> </table> </div>
-<!-- Cloud --> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=☁️%20Cloud%20%26%20DevOps&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/> <div align="center"> <br/> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/> <br><b>AWS</b> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48"/> <br><b>Google Cloud</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/> <br><b>Docker</b> </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/> <br><b>GitHub</b> </td> </tr> </table> </div>
+<!-- Languages -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=💻%20Programming%20Languages&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/><br><b>JavaScript</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br><b>TypeScript</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><b>Java</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Frontend -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Frontend%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><b>React</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br><b>Next.js</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br><b>Tailwind</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Backend -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=⚙️%20Backend%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><b>Node.js</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><b>Express</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Databases -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🗄️%20Databases&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><b>MongoDB</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><b>MySQL</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><b>Firebase</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Cloud & Hosting -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=☁️%20Cloud%20%26%20Hosting&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><b>AWS</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br><b>GCP</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br><b>Vercel</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br><b>Netlify</b></td>
+<td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="48"/><br><b>Render</b></td>
+<td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="48"/><br><b>Hostinger</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Mobile App Development (LAST) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=📱%20Mobile%20App%20Development&fontSize=20&fontColor=38BDF8&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><b>React Native</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=expo" width="48"/><br><b>Expo</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=android" width="48"/><br><b>Android</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=apple" width="48"/><br><b>iOS</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=googleplay" width="48"/><br><b>Play Store</b></td>
+</tr>
+</table>
+</div>
 
 <br>
 

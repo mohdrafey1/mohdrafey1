@@ -164,7 +164,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2018%20mins-blue?style=flat)
 
@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,092 Contributions in the Year 2026
+> 🏆 1,093 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,9 +185,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-🌆 Daytime                1754 commits        ████████░░░░░░░░░░░░░░░░░   33.18 % 
-🌃 Evening                1862 commits        █████████░░░░░░░░░░░░░░░░   35.22 % 
+🌞 Morning                318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+🌆 Daytime                1754 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌃 Evening                1862 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
 🌙 Night                  1354 commits        ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -196,8 +196,8 @@
 Monday                   617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 Tuesday                  632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 Wednesday                633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Thursday                 749 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Friday                   658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Thursday                 749 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Friday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 Saturday                 903 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 Sunday                   1095 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
 ```
@@ -209,30 +209,31 @@ Sunday                   1095 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    15 hrs 11 mins      ████████████████████████░   94.09 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    13 hrs 6 mins       ███████████████████████░░   92.45 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 53 mins      █████████████████████████   98.41 % 
-Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Chrome                   13 hrs 55 mins      █████████████████████████   98.18 % 
+Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-roomio-app               8 hrs 58 mins       ██████████████░░░░░░░░░░░   55.59 % 
-samadhan                 5 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.90 % 
-system_design_full_guide 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+roomio-app               6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.64 % 
+samadhan                 5 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   40.89 % 
+system_design_full_guide 1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Kimi-K3                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Windows                  16 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (1.59%)
+⏱ AI Coding Time: 15 mins (1.81%)
 
 ✍️ 1,187 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -264,7 +265,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:03:31 UTC
+ Last Updated on 31/07/2026 20:04:35 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

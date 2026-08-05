@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,132 Contributions in the Year 2026
+> 🏆 1,133 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,9 +185,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+🌞 Morning                331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 🌆 Daytime                1765 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
-🌃 Evening                1874 commits        █████████░░░░░░░░░░░░░░░░   35.15 % 
+🌃 Evening                1874 commits        █████████░░░░░░░░░░░░░░░░   35.14 % 
 🌙 Night                  1363 commits        ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -195,10 +195,10 @@
 ```text
 Monday                   650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 Tuesday                  633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Wednesday                633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Thursday                 750 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Wednesday                634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Thursday                 750 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 Friday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Saturday                 909 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Saturday                 909 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
 Sunday                   1098 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
 ```
 
@@ -209,32 +209,32 @@ Sunday                   1098 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 7 mins       ████████████████████░░░░░   81.57 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other                    8 hrs 51 mins       █████████████████████░░░░   82.28 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 11 mins      ███████████████████████░░   90.07 % 
-Claude Code              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Chrome                   9 hrs 31 mins       ██████████████████████░░░   88.55 % 
+Claude Code              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🐱‍💻 Projects: 
-passcard-store           2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-samadhan                 2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-system_design_full_guide 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Kimi-K3                  1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-AI-powered-fitness-app   1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+passcard-store           2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Kimi-K3                  1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+AI-powered-fitness-app   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+roomio-app               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+studentsenior-api        57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 💻 Operating System: 
-Windows                  12 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 2 mins (8.38%)
+⏱ AI Coding Time: 1 hr 2 mins (9.67%)
 
 ✍️ 531 lines written by AI, 76 lines written by hand (87.48% AI-written)
 
@@ -267,7 +267,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:11:28 UTC
+ Last Updated on 05/08/2026 20:10:57 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

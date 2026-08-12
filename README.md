@@ -164,7 +164,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2020%20mins-blue?style=flat)
 
@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,150 Contributions in the Year 2026
+> 🏆 1,153 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,21 +185,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-🌆 Daytime                1767 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
-🌃 Evening                1877 commits        █████████░░░░░░░░░░░░░░░░   35.10 % 
-🌙 Night                  1364 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌞 Morning                340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+🌆 Daytime                1769 commits        ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌃 Evening                1877 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
+🌙 Night                  1364 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Tuesday                  635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Wednesday                634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Thursday                 753 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Monday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Tuesday                  635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Wednesday                637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Thursday                 753 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 Friday                   660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Saturday                 910 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Sunday                   1101 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Saturday                 910 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Sunday                   1101 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 ```
 
 
@@ -209,21 +209,21 @@ Sunday                   1101 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    18 hrs 1 min        ████████████████████████░   96.84 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Other                    20 hrs 27 mins      ███████████████████████░░   92.74 % 
+YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 37 mins      █████████████████████████   100.00 % 
+Chrome                   22 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-landspaceinterior-website6 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
-AI-powered-fitness-app   5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Meet – jjb-zckc-cgx      5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-studentsenior-api        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-puzzle-arrow             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+landspaceinterior-website8 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
+AI-powered-fitness-app   5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Meet – jjb-zckc-cgx      4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+deku                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+system_design_full_guide 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
-Windows                  18 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,7 +245,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:36:37 UTC
+ Last Updated on 12/08/2026 19:38:50 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

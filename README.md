@@ -164,7 +164,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2020%20mins-blue?style=flat)
 
@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,158 Contributions in the Year 2026
+> 🏆 1,160 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,20 +185,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-🌆 Daytime                1769 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌃 Evening                1879 commits        █████████░░░░░░░░░░░░░░░░   35.10 % 
-🌙 Night                  1364 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+🌞 Morning                343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+🌆 Daytime                1769 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+🌃 Evening                1880 commits        █████████░░░░░░░░░░░░░░░░   35.10 % 
+🌙 Night                  1364 commits        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Monday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 Tuesday                  635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Wednesday                637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Wednesday                637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 Thursday                 754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Saturday                 910 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 912 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 Sunday                   1101 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
 ```
 
@@ -209,21 +209,21 @@ Sunday                   1101 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    16 hrs 6 mins       ██████████████████████░░░   88.75 % 
-YAML                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Other                    14 hrs 50 mins      ██████████████████████░░░   86.37 % 
+YAML                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 8 mins       █████████████████████████   100.00 % 
+Chrome                   17 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-landspaceinterior-website8 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.13 % 
-system_design_full_guide 4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-AI-powered-fitness-app   3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-deku                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-studentsenior-api        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+landspaceinterior-website8 hrs 44 mins       █████████████░░░░░░░░░░░░   50.84 % 
+system_design_full_guide 6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.42 % 
+deku                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+AI-powered-fitness-app   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Java-Dsa                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Windows                  18 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,7 +245,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 19:30:49 UTC
+ Last Updated on 15/08/2026 18:58:16 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

@@ -168,13 +168,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,161 Contributions in the Year 2026
+> 🏆 1,168 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,21 +185,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-🌆 Daytime                1769 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌃 Evening                1880 commits        █████████░░░░░░░░░░░░░░░░   35.09 % 
-🌙 Night                  1364 commits        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+🌞 Morning                345 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+🌆 Daytime                1774 commits        ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌃 Evening                1881 commits        █████████░░░░░░░░░░░░░░░░   35.07 % 
+🌙 Night                  1364 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Tuesday                  635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Wednesday                637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Thursday                 754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Saturday                 912 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Sunday                   1102 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Monday                   661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Tuesday                  635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Wednesday                637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Thursday                 754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Saturday                 912 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Sunday                   1102 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 ```
 
 
@@ -209,32 +209,32 @@ Sunday                   1102 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    15 hrs 53 mins      █████████████████████░░░░   85.81 % 
-YAML                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Other                    13 hrs 34 mins      █████████████████████░░░░   84.20 % 
+YAML                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 12 mins      █████████████████████████   98.31 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Chrome                   15 hrs 48 mins      █████████████████████████   98.06 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-landspaceinterior-website8 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.16 % 
-system_design_full_guide 6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.71 % 
-deku                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Meet – tgw-nevu-edi      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-test                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+landspaceinterior-website6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
+system_design_full_guide 6 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
+deku                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Meet – tgw-nevu-edi      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+test                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 Operating System: 
-Windows                  18 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.4%)
+⏱ AI Coding Time: 4 mins (0.46%)
 
 ✍️ 28 lines written by AI, 56 lines written by hand (33.33% AI-written)
 
@@ -267,7 +267,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:57:59 UTC
+ Last Updated on 17/08/2026 19:10:00 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

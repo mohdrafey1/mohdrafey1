@@ -164,7 +164,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2024%20mins-blue?style=flat)
 
@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,175 Contributions in the Year 2026
+> 🏆 1,176 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,21 +185,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-🌆 Daytime                1774 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌃 Evening                1884 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
+🌞 Morning                348 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+🌆 Daytime                1774 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
+🌃 Evening                1884 commits        █████████░░░░░░░░░░░░░░░░   35.07 % 
 🌙 Night                  1366 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Monday                   661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Tuesday                  639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Wednesday                640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Thursday                 754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Wednesday                640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Thursday                 755 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 Saturday                 912 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Sunday                   1102 commits        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Sunday                   1102 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 ```
 
 
@@ -209,32 +209,32 @@ Sunday                   1102 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 hrs 4 mins       █████████████████████░░░░   84.39 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    11 hrs 35 mins      ██████████████████████░░░   86.53 % 
+JavaScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 11 mins      ████████████████████████░   97.98 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Chrome                   13 hrs 4 mins       ████████████████████████░   97.66 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-Java-Dsa                 7 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.24 % 
-system_design_full_guide 5 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
-Meet – tgw-nevu-edi      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-test                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-roomio-app               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Java-Dsa                 7 hrs 38 mins       ██████████████░░░░░░░░░░░   57.01 % 
+system_design_full_guide 3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Meet – tgw-nevu-edi      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+test                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+fittrack-backend         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Windows                  15 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.48%)
+⏱ AI Coding Time: 4 mins (0.55%)
 
 ✍️ 28 lines written by AI, 56 lines written by hand (33.33% AI-written)
 
@@ -267,7 +267,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:05:13 UTC
+ Last Updated on 20/08/2026 19:14:01 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

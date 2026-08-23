@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,178 Contributions in the Year 2026
+> 🏆 1,179 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,10 +185,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                350 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-🌆 Daytime                1774 commits        ████████░░░░░░░░░░░░░░░░░   33.01 % 
-🌃 Evening                1884 commits        █████████░░░░░░░░░░░░░░░░   35.06 % 
-🌙 Night                  1366 commits        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌞 Morning                351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+🌆 Daytime                1774 commits        ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌃 Evening                1884 commits        █████████░░░░░░░░░░░░░░░░   35.05 % 
+🌙 Night                  1366 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -197,9 +197,9 @@ Monday                   661 commits         ███░░░░░░░░�
 Tuesday                  639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 Wednesday                640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 Thursday                 755 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   664 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Friday                   664 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 Saturday                 913 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Sunday                   1102 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Sunday                   1103 commits        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 ```
 
 
@@ -209,49 +209,27 @@ Sunday                   1102 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    9 hrs 55 mins       ██████████████████████░░░   86.61 % 
-JavaScript               1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    8 hrs 52 mins       ██████████████████████░░░   87.65 % 
+JavaScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 9 mins       ████████████████████████░   97.27 % 
-VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Chrome                   10 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Java-Dsa                 7 hrs 23 mins       ████████████████░░░░░░░░░   64.53 % 
-fittrack-backend         1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Meet – tgw-nevu-edi      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-test                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-roomio-app               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Java-Dsa                 7 hrs 23 mins       ██████████████████░░░░░░░   73.07 % 
+fittrack-backend         1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Meet – tgw-nevu-edi      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+open-production-web-proje0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+studentsenior-main       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  11 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.65%)
-
-✍️ 28 lines written by AI, 56 lines written by hand (33.33% AI-written)
-
-🔤 5,676 Input Tokens, 273 Output Tokens
-
-💵 $0.03 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-Github-Copilot           28 lines            █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.33% of written lines came from AI
-📝 Concise Prompter — average 174 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 68.18% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -267,7 +245,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 19:00:14 UTC
+ Last Updated on 23/08/2026 18:59:55 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

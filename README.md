@@ -164,7 +164,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2024%20mins-blue?style=flat)
 
@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,166 Contributions in the Year 2026
+> 🏆 1,167 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,20 +185,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-🌆 Daytime                1773 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
+🌞 Morning                353 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+🌆 Daytime                1773 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
 🌃 Evening                1880 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
-🌙 Night                  1360 commits        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+🌙 Night                  1360 commits        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Monday                   657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Tuesday                  640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 Wednesday                640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 Thursday                 750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Saturday                 913 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Saturday                 913 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 Sunday                   1103 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
 ```
 
@@ -209,21 +209,21 @@ Sunday                   1103 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 hrs 52 mins       ██████████████████████░░░   87.65 % 
-JavaScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Other                    4 hrs 57 mins       ███████████████████████░░   93.54 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 7 mins       █████████████████████████   100.00 % 
+Chrome                   5 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Java-Dsa                 7 hrs 23 mins       ██████████████████░░░░░░░   73.07 % 
-fittrack-backend         1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Meet – tgw-nevu-edi      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-open-production-web-proje0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-studentsenior-main       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Java-Dsa                 3 hrs 18 mins       ████████████████░░░░░░░░░   62.50 % 
+fittrack-backend         1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.65 % 
+open-production-web-proje0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+scanedge-pdf-scanner     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+studentsenior-main       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,7 +245,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:13:05 UTC
+ Last Updated on 25/08/2026 19:11:07 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

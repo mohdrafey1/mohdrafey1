@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,167 Contributions in the Year 2026
+> 🏆 1,168 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,21 +185,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                353 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+🌞 Morning                354 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 🌆 Daytime                1773 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌃 Evening                1880 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
+🌃 Evening                1880 commits        █████████░░░░░░░░░░░░░░░░   35.03 % 
 🌙 Night                  1360 commits        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Tuesday                  640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Wednesday                640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Thursday                 750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Tuesday                  640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Wednesday                641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Thursday                 750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 Saturday                 913 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Sunday                   1103 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Sunday                   1103 commits        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
 ```
 
 
@@ -209,21 +209,21 @@ Sunday                   1103 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 57 mins       ███████████████████████░░   93.54 % 
-JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Other                    1 hr 39 mins        █████████████████████░░░░   83.81 % 
+JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 17 mins       █████████████████████████   100.00 % 
+Chrome                   1 hr 58 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Java-Dsa                 3 hrs 18 mins       ████████████████░░░░░░░░░   62.50 % 
-fittrack-backend         1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.65 % 
-open-production-web-proje0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-scanedge-pdf-scanner     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-studentsenior-main       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+fittrack-backend         1 hr 53 mins        ████████████████████████░   95.59 % 
+open-production-web-proje0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+scanedge-pdf-scanner     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Fenrir_Hack              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+ethara-trello            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,7 +245,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:11:07 UTC
+ Last Updated on 26/08/2026 20:33:54 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

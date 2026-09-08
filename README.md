@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,179 Contributions in the Year 2026
+> 🏆 1,180 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,21 +185,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-🌆 Daytime                1774 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
-🌃 Evening                1880 commits        █████████░░░░░░░░░░░░░░░░   34.95 % 
-🌙 Night                  1360 commits        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+🌞 Morning                366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+🌆 Daytime                1774 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
+🌃 Evening                1875 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
+🌙 Night                  1358 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Wednesday                642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Thursday                 752 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Saturday                 915 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Sunday                   1105 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Monday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Wednesday                642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Thursday                 745 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Friday                   665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Saturday                 915 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Sunday                   1105 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
 ```
 
 
@@ -209,21 +209,21 @@ Sunday                   1105 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 52 mins       █████████████████████░░░░   84.36 % 
-JavaScript               1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Other                    5 hrs 43 mins       █████████████████████░░░░   84.01 % 
+JavaScript               1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 57 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-deku-harness             3 hrs 29 mins       █████████████░░░░░░░░░░░░   50.19 % 
-fittrack-backend         3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.58 % 
-deku-samples             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+deku-harness             3 hrs 29 mins       █████████████░░░░░░░░░░░░   51.33 % 
+fittrack-backend         2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
+deku-samples             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 SWE-smith                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  4 hrs 44 mins       █████████████████░░░░░░░░   68.00 % 
-Mac                      2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Windows                  4 hrs 34 mins       █████████████████░░░░░░░░   67.28 % 
+Mac                      2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,7 +245,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:44:05 UTC
+ Last Updated on 08/09/2026 21:22:06 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

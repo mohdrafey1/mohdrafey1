@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,182 Contributions in the Year 2026
+> 🏆 1,183 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,19 +185,19 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-🌆 Daytime                1870 commits        ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌞 Morning                381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌆 Daytime                1870 commits        ████████░░░░░░░░░░░░░░░░░   33.11 % 
 🌃 Evening                1987 commits        █████████░░░░░░░░░░░░░░░░   35.19 % 
-🌙 Night                  1409 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+🌙 Night                  1409 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 Tuesday                  665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Wednesday                679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Wednesday                679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 Thursday                 800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Friday                   692 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Friday                   693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 Saturday                 952 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 Sunday                   1174 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
 ```
@@ -209,22 +209,19 @@ Sunday                   1174 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 37 mins       ███████████████████░░░░░░   76.17 % 
-JavaScript               1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Other                    3 hrs 23 mins       ██████████████████████░░░   89.12 % 
+JavaScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 45 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-deku-harness             3 hrs 59 mins       █████████████████████░░░░   84.07 % 
-deku-samples             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-studentsenior-app-expo   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-fittrack-backend         10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-SWE-smith                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+deku-harness             3 hrs 35 mins       ████████████████████████░   94.28 % 
+studentsenior-app-expo   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 💻 Operating System: 
-Mac                      2 hrs 56 mins       ███████████████░░░░░░░░░░   61.86 % 
-Windows                  1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   38.14 % 
+Mac                      2 hrs 56 mins       ███████████████████░░░░░░   77.38 % 
+Windows                  51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -246,7 +243,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:06:26 UTC
+ Last Updated on 11/09/2026 21:10:47 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

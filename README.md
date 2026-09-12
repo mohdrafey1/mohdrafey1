@@ -164,7 +164,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2024%20mins-blue?style=flat)
 
@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,183 Contributions in the Year 2026
+> 🏆 1,184 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,20 +185,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌞 Morning                382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 🌆 Daytime                1870 commits        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌃 Evening                1987 commits        █████████░░░░░░░░░░░░░░░░   35.19 % 
+🌃 Evening                1987 commits        █████████░░░░░░░░░░░░░░░░   35.18 % 
 🌙 Night                  1409 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Tuesday                  665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Tuesday                  665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 Wednesday                679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Thursday                 800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 Friday                   693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Saturday                 952 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Saturday                 953 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 Sunday                   1174 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
 ```
 
@@ -209,19 +209,20 @@ Sunday                   1174 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 23 mins       ██████████████████████░░░   89.12 % 
-JavaScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Other                    4 hrs 7 mins        ███████████████████████░░   90.37 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 48 mins       █████████████████████████   100.00 % 
+Chrome                   4 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-deku-harness             3 hrs 35 mins       ████████████████████████░   94.28 % 
-studentsenior-app-expo   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+deku-harness             2 hrs 55 mins       ████████████████░░░░░░░░░   64.25 % 
+Claude-Usage-Meter-Deskto1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+studentsenior-app-expo   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 
 💻 Operating System: 
-Mac                      2 hrs 56 mins       ███████████████████░░░░░░   77.38 % 
-Windows                  51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+Mac                      4 hrs 21 mins       ████████████████████████░   95.58 % 
+Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -243,7 +244,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 21:10:47 UTC
+ Last Updated on 12/09/2026 20:48:36 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

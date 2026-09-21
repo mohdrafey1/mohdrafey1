@@ -164,9 +164,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -174,7 +174,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,203 Contributions in the Year 2026
+> 🏆 1,204 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,7 +185,7 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                403 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+🌞 Morning                404 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 🌆 Daytime                1976 commits        ████████░░░░░░░░░░░░░░░░░   33.29 % 
 🌃 Evening                2097 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
 🌙 Night                  1459 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
@@ -193,13 +193,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   714 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Monday                   715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 Tuesday                  689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 Wednesday                716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 Thursday                 849 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Friday                   721 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Saturday                 991 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Sunday                   1255 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Saturday                 991 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Sunday                   1255 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 ```
 
 
@@ -209,25 +209,46 @@ Sunday                   1255 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    11 hrs 26 mins      █████████████████████████   98.50 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Other                    17 hrs 29 mins      ████████████████████████░   94.82 % 
+JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 36 mins      █████████████████████████   100.00 % 
+Chrome                   18 hrs 8 mins       █████████████████████████   98.35 % 
+Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-AI-story-generator-produc11 hrs 36 mins      █████████████████████████   99.95 % 
-Claude-Usage-Meter-Deskto0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-prd-generator            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+AI-story-generator-produc14 hrs 3 mins       ███████████████████░░░░░░   76.19 % 
+studentsenior-blog       1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+studentsenior-api        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+studentsenior-frontend-ne49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+StudentSenior            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Mac                      11 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 7 mins       █████████████████████████   98.25 % 
+Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (1.65%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 41,879 Input Tokens, 4,716 Output Tokens
+
+💵 $0.48 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 79 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -243,7 +264,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:00:28 UTC
+ Last Updated on 21/09/2026 22:09:14 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

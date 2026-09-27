@@ -34,7 +34,6 @@
 
 -   🌐 Launch 2 major full-stack projects
 -   📖 Deep dive into Devops
--   ☁️ Get Good Job
 
 <br>
 

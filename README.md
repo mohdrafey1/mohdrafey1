@@ -167,13 +167,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.45%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.47%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,209 Contributions in the Year 2026
+> 🏆 1,218 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -184,21 +184,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-🌆 Daytime                1976 commits        ████████░░░░░░░░░░░░░░░░░   33.26 % 
-🌃 Evening                2097 commits        █████████░░░░░░░░░░░░░░░░   35.30 % 
-🌙 Night                  1459 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+🌞 Morning                410 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+🌆 Daytime                1985 commits        ████████░░░░░░░░░░░░░░░░░   33.35 % 
+🌃 Evening                2098 commits        █████████░░░░░░░░░░░░░░░░   35.25 % 
+🌙 Night                  1459 commits        ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Tuesday                  690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Wednesday                717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Thursday                 850 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Friday                   722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Saturday                 992 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Sunday                   1255 commits        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Monday                   715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Tuesday                  690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Wednesday                717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Thursday                 850 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Friday                   722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Saturday                 992 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   1266 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
 ```
 
 
@@ -208,30 +208,30 @@ Sunday                   1255 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    17 hrs 24 mins      ████████████████████████░   94.26 % 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Other                    13 hrs              ███████████████████████░░   92.46 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 10 mins      █████████████████████████   98.36 % 
-Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Chrome                   13 hrs 45 mins      ████████████████████████░   97.84 % 
+Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🐱‍💻 Projects: 
-AI-story-generator-produc8 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
-studentsenior-blog       7 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
-studentsenior-api        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-studentsenior-frontend-ne49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-StudentSenior            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+studentsenior-blog       7 hrs 28 mins       █████████████░░░░░░░░░░░░   53.17 % 
+AI-story-generator-produc3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+studentsenior-api        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+studentsenior-frontend-ne49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+StudentSenior            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 💻 Operating System: 
-Mac                      18 hrs 9 mins       █████████████████████████   98.25 % 
-Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Mac                      13 hrs 44 mins      ████████████████████████░   97.71 % 
+Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (1.64%)
+⏱ AI Coding Time: 18 mins (2.16%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -263,7 +263,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:25:09 UTC
+ Last Updated on 27/09/2026 21:33:21 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

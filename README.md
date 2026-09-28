@@ -163,42 +163,42 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 106.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,218 Contributions in the Year 2026
+> 🏆 1,222 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 42 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                410 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-🌆 Daytime                1985 commits        ████████░░░░░░░░░░░░░░░░░   33.35 % 
-🌃 Evening                2098 commits        █████████░░░░░░░░░░░░░░░░   35.25 % 
-🌙 Night                  1459 commits        ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+🌞 Morning                413 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+🌆 Daytime                2557 commits        █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌃 Evening                2769 commits        █████████░░░░░░░░░░░░░░░░   37.02 % 
+🌙 Night                  1741 commits        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Tuesday                  690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Wednesday                717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Thursday                 850 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Friday                   722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Saturday                 992 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sunday                   1266 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Monday                   930 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Tuesday                  1058 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Wednesday                814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Thursday                 918 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Friday                   805 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Saturday                 1128 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Sunday                   1827 commits        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 ```
 
 
@@ -208,62 +208,42 @@ Sunday                   1266 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 hrs              ███████████████████████░░   92.46 % 
-JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Other                    6 hrs 30 mins       ████████████████████████░   94.43 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 45 mins      ████████████████████████░   97.84 % 
-Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Chrome                   6 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-studentsenior-blog       7 hrs 28 mins       █████████████░░░░░░░░░░░░   53.17 % 
-AI-story-generator-produc3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-studentsenior-api        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-studentsenior-frontend-ne49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-StudentSenior            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+studentsenior-blog       5 hrs 34 mins       ████████████████████░░░░░   80.89 % 
+AI-story-generator-produc1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+mohdrafey1               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+fsc                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      13 hrs 44 mins      ████████████████████████░   97.71 % 
-Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Mac                      6 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (2.16%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 41,879 Input Tokens, 4,716 Output Tokens
-
-💵 $0.48 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 79 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               35 repos            █████████████░░░░░░░░░░░░   52.24 % 
-TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript               42 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.14 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 
 
 
- Last Updated on 27/09/2026 21:33:21 UTC
+ Last Updated on 28/09/2026 10:47:07 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

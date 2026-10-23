@@ -208,54 +208,54 @@ Sunday                   3388 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    26 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   37.75 % 
-Markdown                 17 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-TypeScript               5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Python                   4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Bash                     3 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Other                    27 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.37 % 
+Markdown                 13 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+TypeScript               3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Fork                     3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Bash                     2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Claude Code              13 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Opencode Cli             11 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Kiro                     10 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-VS Code                  7 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Chrome                   18 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Kiro                     14 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+VS Code                  8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Claude Code              7 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Codex Vscode             5 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🐱‍💻 Projects: 
-urbanarena               20 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-deku                     11 hrs 40 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-deku-task-kit            10 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Trinity-updated-deku     4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-GreenField               3 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+urbanarena               20 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   32.30 % 
+deku-task-kit            13 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+deku                     5 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+GreenField               4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+deku-harness             2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Mac                      71 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      64 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 hrs 44 mins (78.03%)
+⏱ AI Coding Time: 46 hrs 30 mins (71.62%)
 
-✍️ 37,304 lines written by AI, 196 lines written by hand (99.48% AI-written)
+✍️ 30,442 lines written by AI, 190 lines written by hand (99.38% AI-written)
 
-🔤 53,449,714 Input Tokens, 6,516,345 Output Tokens
+🔤 28,227,934 Input Tokens, 4,293,993 Output Tokens
 
-💵 $1348.95 Estimated AI Cost This Week
+💵 $908.61 Estimated AI Cost This Week
 
-🧠 1479 AI Sessions, 1995 AI Prompts
+🧠 1755 AI Sessions, 2072 AI Prompts
 
-Opus                     25,585 lines        █████████████████░░░░░░░░   68.13 % 
-GPT                      9,309 lines         ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Cursor                   2,661 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Opus                     18,669 lines        ███████████████░░░░░░░░░░   60.93 % 
+GPT                      9,309 lines         ████████░░░░░░░░░░░░░░░░░   30.38 % 
+Cursor                   2,661 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📚 Verbose Prompter — average 58,105 characters per prompt
+🤖 AI-Driven — 99.38% of written lines came from AI
+📚 Verbose Prompter — average 63,439 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+🚀 High AI Trust — 0.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -271,7 +271,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 21:56:21 UTC
+ Last Updated on 23/10/2026 21:39:12 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect With Me

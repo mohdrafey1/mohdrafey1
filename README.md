@@ -161,6 +161,25 @@
   <img src="https://streak-stats.demolab.com?user=mohdrafey1&theme=radical&hide_border=true" />
 </p>
 
+<!-- Coding activity from Waqt, my self-hosted coding time tracker: https://github.com/mohdrafey1/waqt -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=⏱️%20Coding%20Activity&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+
+<p align="center">
+  <a href="https://waqt.rafey.space/profile/">
+    <img src="https://waqt.rafey.space/card/stats.svg?range=last_30_days&theme=dark&accent=38bdf8&hide_border=true" alt="Coding stats for the last 30 days" />
+  </a>
+  <a href="https://waqt.rafey.space/profile/">
+    <img src="https://waqt.rafey.space/card/languages.svg?range=last_30_days&layout=compact&theme=dark&accent=38bdf8&hide_border=true" alt="Top languages in the last 30 days" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://waqt.rafey.space/profile/">
+    <img src="https://waqt.rafey.space/card/heatmap.svg?theme=dark&accent=38bdf8&hide_border=true" alt="Coding activity over the last year" />
+  </a>
+  <br>
+  <sub>Tracked with <a href="https://github.com/mohdrafey1/waqt">Waqt</a>, my free, open-source coding time tracker.</sub>
+</p>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2022%20mins-blue?style=flat)

@@ -1,0 +1,30 @@
+# Writes my coding stats from Waqt (https://waqt.rafey.space) into README.md,
+# between <!--START_SECTION:waqt--> and <!--END_SECTION:waqt-->.
+name: Waqt stats
+
+on:
+  schedule:
+    - cron: '17 */6 * * *' # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/waqt.yml']
+
+permissions:
+  contents: write
+
+concurrency: readme-update
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: mohdrafey1/Waqt/readme-action@main
+        with:
+          url: https://waqt.rafey.space
+          # Optional: add a repository secret WAQT_API_KEY to include project names.
+          api_key: ${{ secrets.WAQT_API_KEY }}
+          range: last_7_days
+          sections: summary,languages,editors,projects,hours,ai,streak
+          commit_message: Update coding stats from Waqt

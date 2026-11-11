@@ -176,9 +176,11 @@
   <a href="https://waqt.rafey.space/profile/">
     <img src="https://waqt.rafey.space/card/heatmap.svg?theme=dark&accent=38bdf8&hide_border=true" alt="Coding activity over the last year" />
   </a>
-  <br>
-  <sub>Tracked with <a href="https://github.com/mohdrafey1/waqt">Waqt</a>, my free, open-source coding time tracker.</sub>
 </p>
+
+<!--START_SECTION:waqt-->
+<sub>Tracked with <a href="https://github.com/mohdrafey1/waqt">Waqt</a>, my free, open-source coding time tracker.</sub>
+<!--END_SECTION:waqt-->
 
 
 <!--START_SECTION:waka-->

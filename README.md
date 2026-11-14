@@ -179,60 +179,60 @@
 </p>
 
 <!--START_SECTION:waqt-->
-⏱️ **This Week I Spent 111 hrs 20 mins Coding** · daily average 15 hrs 54 mins
+⏱️ **This Week I Spent 122 hrs 51 mins Coding** · daily average 17 hrs 33 mins
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
-Other                    50 hrs 49 mins      ███████████░░░░░░░░░░░░░░   45.65 %
-Markdown                 21 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   19.43 %
-Bash                     14 hrs 46 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.27 %
-Python                   13 hrs 38 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-TypeScript               6 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Other                    59 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.48 %
+Markdown                 23 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 %
+Bash                     14 hrs 57 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Python                   14 hrs 26 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+TypeScript               6 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 
 🔥 Editors:
-Claude Code              94 hrs 39 mins      █████████████████████░░░░   85.02 %
-Chrome                   11 hrs 29 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Unknown                  1 hr 57 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Slack                    1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-VS Code                  1 hr 31 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Claude Code              105 hrs 27 mins     █████████████████████░░░░   85.84 %
+Chrome                   11 hrs 49 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Unknown                  1 hr 57 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+VS Code                  1 hr 48 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Slack                    1 hr 42 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 
 🐱‍💻 Projects:
-deku-task-kit            37 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   33.57 %
-deku-task-kit-gfkit      20 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   18.67 %
-gfkit-model-cwd          14 hrs 45 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.26 %
-deku-stage-1             11 hrs 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Greenfield-Manual        8 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+deku-task-kit            40 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   33.04 %
+deku-task-kit-gfkit      24 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+gfkit-model-cwd          16 hrs 34 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+deku-stage-1             12 hrs 11 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Greenfield-Manual        8 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
 ```
 
 **I'm a Night Owl 🦉**
 
 ```text
-🌞 Morning               28 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   25.39 %
-🌆 Daytime               23 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   21.23 %
-🌃 Evening               34 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   31.39 %
-🌙 Night                 24 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   21.99 %
+🌞 Morning               28 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   23.01 %
+🌆 Daytime               29 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+🌃 Evening               40 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.98 %
+🌙 Night                 24 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   19.93 %
 ```
 
 🤖 **AI Coding This Week**
 
 ```text
-⏱ AI agent time: 99 hrs 28 mins (89.3% of coding)
-✍️ 55,517 lines by AI, 8 by hand (100% AI)
-🔤 66,674,198 input tokens, 18,191,445 output tokens
-🧠 1,491 sessions, 1,731 prompts
+⏱ AI agent time: 110 hrs 48 mins (90.2% of coding)
+✍️ 69,394 lines by AI, 8 by hand (100% AI)
+🔤 78,800,136 input tokens, 22,803,786 output tokens
+🧠 1,854 sessions, 2,137 prompts
 
-Opus 5.5                 57 hrs 22 mins      ██████████████████░░░░░░░   72.98 %
-Sonnet 5.5               18 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-Opus                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Fable 5.2                41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Opus 5.5                 62 hrs 18 mins      ██████████████████░░░░░░░   71.10 %
+Sonnet 5.5               21 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+Opus                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Fable 5.2                1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 GPT 6-sol-high           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 🔥 **41-day coding streak** (longest: 47 days)
 
-<sub>Tracked with [Waqt](https://github.com/mohdrafey1/waqt) · [see more](https://waqt.rafey.space/profile/) · updated 2026-11-14 06:41 UTC</sub>
+<sub>Tracked with [Waqt](https://github.com/mohdrafey1/waqt) · [see more](https://waqt.rafey.space/profile/) · updated 2026-11-14 18:16 UTC</sub>
 <!--END_SECTION:waqt-->
 
 

@@ -179,60 +179,60 @@
 </p>
 
 <!--START_SECTION:waqt-->
-⏱️ **This Week I Spent 34 hrs 7 mins Coding** · daily average 5 hrs 41 mins
+⏱️ **This Week I Spent 34 hrs 56 mins Coding** · daily average 5 hrs 49 mins
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
-Other                    18 hrs 25 mins      █████████████░░░░░░░░░░░░   53.99 %
-TypeScript               10 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 %
-Markdown                 3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-JavaScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Other                    18 hrs 15 mins      █████████████░░░░░░░░░░░░   52.28 %
+TypeScript               11 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   32.07 %
+Markdown                 2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+JavaScript               1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 
 🔥 Editors:
-Claude Code              18 hrs 7 mins       █████████████░░░░░░░░░░░░   53.10 %
-Chrome                   13 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   39.16 %
-Codex-vscode             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Slack                    38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-VS Code                  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Chrome                   16 hrs 3 mins       ███████████░░░░░░░░░░░░░░   45.93 %
+Claude Code              14 hrs 44 mins      ███████████░░░░░░░░░░░░░░   42.21 %
+Codex-vscode             2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Slack                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+VS Code                  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 
 🐱‍💻 Projects:
-urbanarena               12 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   37.96 %
-urban-arena              6 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-Imo-Recharge             4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-allmight-samples         2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-studentsenior-frontend-… 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+urbanarena               8 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+urban-arena              7 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 %
+Imo-Recharge             5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+allmight-samples         2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+system_design_full_guide 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
 ```
 
 **I'm a Daytime Coder ☀️**
 
 ```text
-🌞 Morning               4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 %
-🌆 Daytime               16 hrs 29 mins      ████████████░░░░░░░░░░░░░   48.31 %
-🌃 Evening               6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-🌙 Night                 6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 %
+🌞 Morning               4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+🌆 Daytime               19 hrs 47 mins      ██████████████░░░░░░░░░░░   56.62 %
+🌃 Evening               7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 %
+🌙 Night                 3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 %
 ```
 
 🤖 **AI Coding This Week**
 
 ```text
-⏱ AI agent time: 21 hrs 56 mins (64.3% of coding)
-✍️ 19,506 lines by AI, 3 by hand (100% AI)
-🔤 10,968,573 input tokens, 2,334,666 output tokens
-🧠 42 sessions, 181 prompts
+⏱ AI agent time: 20 hrs 14 mins (57.9% of coding)
+✍️ 19,499 lines by AI, 3 by hand (100% AI)
+🔤 11,353,306 input tokens, 2,192,226 output tokens
+🧠 47 sessions, 221 prompts
 
-Opus 5.5                 9 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.69 %
-Fable 5.2                8 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.30 %
-GPT 6-sol-high           1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Opus 4.8                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-GPT 6.2-astra-high       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Opus 5.5                 9 hrs 52 mins       ██████████████░░░░░░░░░░░   57.21 %
+Fable 5.2                4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+GPT 6.2-astra-high       1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+GPT 6-sol-high           1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Opus 4.8                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
-🔥 **5-day coding streak** (longest: 47 days)
+🔥 **6-day coding streak** (longest: 47 days)
 
-<sub>Tracked with [Waqt](https://github.com/mohdrafey1/waqt) · [see more](https://waqt.rafey.space/profile/) · updated 2026-11-26 08:34 UTC</sub>
+<sub>Tracked with [Waqt](https://github.com/mohdrafey1/waqt) · [see more](https://waqt.rafey.space/profile/) · updated 2026-11-26 21:42 UTC</sub>
 <!--END_SECTION:waqt-->
 
 

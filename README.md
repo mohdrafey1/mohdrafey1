@@ -179,46 +179,46 @@
 </p>
 
 <!--START_SECTION:waqt-->
-⏱️ **This Week I Spent 42 hrs 15 mins Coding** · daily average 7 hrs 2 mins
+⏱️ **This Week I Spent 42 hrs 53 mins Coding** · daily average 6 hrs 7 mins
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
-Other                    20 hrs 49 mins      ████████████░░░░░░░░░░░░░   49.28 %
-TypeScript               14 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.62 %
-Markdown                 4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-JavaScript               1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-HTML                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other                    20 hrs 49 mins      ████████████░░░░░░░░░░░░░   48.55 %
+TypeScript               14 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.12 %
+Markdown                 4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+JavaScript               2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+HTML                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 
 🔥 Editors:
-Claude Code              19 hrs 47 mins      ████████████░░░░░░░░░░░░░   46.86 %
-Chrome                   18 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.72 %
-Codex-vscode             2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Slack                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-VS Code                  49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Claude Code              19 hrs 47 mins      ████████████░░░░░░░░░░░░░   46.16 %
+Chrome                   18 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.57 %
+Codex-vscode             2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Slack                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+VS Code                  49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 
 🐱‍💻 Projects:
-Imo-Recharge             11 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   27.42 %
-urbanarena               8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-urban-arena              7 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 %
-allmight-samples         2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-system_design_full_guide 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Imo-Recharge             11 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   27.02 %
+urbanarena               8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+urban-arena              7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 %
+allmight-samples         2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+system_design_full_guide 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 **I'm a Daytime Coder ☀️**
 
 ```text
-🌞 Morning               4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-🌆 Daytime               25 hrs 47 mins      ███████████████░░░░░░░░░░   61.03 %
-🌃 Evening               8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-🌙 Night                 3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+🌞 Morning               4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+🌆 Daytime               26 hrs 25 mins      ███████████████░░░░░░░░░░   61.61 %
+🌃 Evening               8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 %
+🌙 Night                 3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
 ```
 
 🤖 **AI Coding This Week**
 
 ```text
-⏱ AI agent time: 26 hrs (61.6% of coding)
+⏱ AI agent time: 26 hrs (60.6% of coding)
 ✍️ 28,526 lines by AI, 3 by hand (100% AI)
 🔤 13,685,381 input tokens, 2,947,137 output tokens
 🧠 53 sessions, 270 prompts
@@ -230,9 +230,9 @@ GPT 6.2-astra-high       1 hr 14 mins        █░░░░░░░░░░�
 Opus 4.8                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
-🔥 **6-day coding streak** (longest: 47 days)
+🔥 **7-day coding streak** (longest: 47 days)
 
-<sub>Tracked with [Waqt](https://github.com/mohdrafey1/waqt) · [see more](https://waqt.rafey.space/profile/) · updated 2026-11-27 21:26 UTC</sub>
+<sub>Tracked with [Waqt](https://github.com/mohdrafey1/waqt) · [see more](https://waqt.rafey.space/profile/) · updated 2026-11-28 08:01 UTC</sub>
 <!--END_SECTION:waqt-->
 
 
